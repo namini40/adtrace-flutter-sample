@@ -1,4 +1,4 @@
-# excoino_flutter_sample
+# flutter_sample
 
 A new Flutter project.
 
